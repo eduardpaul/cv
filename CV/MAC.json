@@ -313,7 +313,11 @@
         "institution": {
           "name": "Microsoft",
           "description": "Earners of the MCSA: Web Applications certification have demonstrated the skills required to implement modern web apps. They are qualified for a position as a web developer or web administrator.",
-          "URL": "https://www.credly.com/badges/9dea252b-458c-4347-856a-d6e61b4e6c71"
+          "URL": "https://www.credly.com/badges/9dea252b-458c-4347-856a-d6e61b4e6c71",
+          "image": {
+            "alt": "MCSA_Web_Applications-01.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a5602c33-61d2-4276-8f0b-5aaa64e65314_mcsa_web_application.png"
+          }
         }
       },
       {
