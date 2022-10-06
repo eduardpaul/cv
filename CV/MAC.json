@@ -242,6 +242,19 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "DevOps Foundation® Certification",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "DevOps Institute",
+          "image": {
+            "alt": "DevOpsFoundationBadge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/282e4397-7509-4b23-a855-d2738e9c9618_devopsfoundationbadg.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Technician in Multi-platform Applications Development",
