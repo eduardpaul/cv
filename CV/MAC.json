@@ -62,6 +62,18 @@
             "finishDate": "2021-09-01"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Senior Consultant",
+            "startDate": "2014-09-01",
+            "finishDate": "2016-09-01"
+          }
+        ]
       }
     ]
   },
