@@ -242,6 +242,36 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Active Directory",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Engineering Management",
         "Software Architect",
