@@ -183,23 +183,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Microsoft Certified Security, Compliance, and Identity",
-        "startDate": "2022-02-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
-          "URL": "https://www.credly.com/badges/81215d2e-3450-4b5e-9fd6-6379fbb6a6b3/public_url"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Microsoft Certified: Azure AI Fundamentals",
         "startDate": "2022-02-01",
         "institution": {
@@ -211,6 +194,27 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/345dc9e1-cb2d-4a7d-9de5-8502f991e757_azure-ai-fundamental.png"
           }
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified Security, Compliance, and Identity",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
+          "URL": "https://www.credly.com/badges/81215d2e-3450-4b5e-9fd6-6379fbb6a6b3/public_url",
+          "image": {
+            "alt": "security-compliance-and-identity-fundamentals-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/86b95bbb-c0b5-4536-a478-5032d1c1092c_security-compliance-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
