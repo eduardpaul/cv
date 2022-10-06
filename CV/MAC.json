@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Eduard",
+      "surnames": "Paul Lakida",
+      "title": "Lead Solutions Architect at NTT DATA Europe & LATAM",
+      "avatar": {
+        "alt": "avatar.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/ee2b48c6-9692-434e-96b4-e67bedd73167_avatar.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/eduardpaul"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/eduapauldev"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eduardpaul"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/eduardpaul"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida"
+        }
+      ]
+    }
+  }
+}
