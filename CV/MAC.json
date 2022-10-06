@@ -186,8 +186,15 @@
         "startDate": "2022-02-01",
         "institution": {
           "name": "Microsoft",
+          "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
           "URL": "https://www.credly.com/badges/81215d2e-3450-4b5e-9fd6-6379fbb6a6b3/public_url"
-        }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
