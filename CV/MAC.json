@@ -307,6 +307,17 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MCSA: Web Applications - Certified 2016",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the MCSA: Web Applications certification have demonstrated the skills required to implement modern web apps. They are qualified for a position as a web developer or web administrator.",
+          "URL": "https://www.credly.com/badges/9dea252b-458c-4347-856a-d6e61b4e6c71"
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Microsoft 365 Certified: Developer Associate",
         "startDate": "2020-11-01",
