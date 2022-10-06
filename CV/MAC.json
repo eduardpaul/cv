@@ -255,6 +255,32 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft 365 Certified: Developer Associate",
+        "startDate": "2020-11-01",
+        "finishDate": "2023-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Certified: Teams Application Developer Associate certification validates the skills and knowledge to design, build, test, and maintain applications and solutions that are optimized for the productivity and collaboration needs of organizations using the Microsoft 365 platform.",
+          "URL": "https://www.youracclaim.com/badges/aef2b78f-9685-4c05-8dd5-6fbf84040a61?source=linked_in_profile",
+          "image": {
+            "alt": "CERT-Associate-Microsoft365-Developer.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/12cb55c9-bbdc-4a00-962f-79222dfad834_cert-associate-micro.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Sharepoint",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Technician in Multi-platform Applications Development",
