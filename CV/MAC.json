@@ -74,6 +74,18 @@
             "finishDate": "2016-09-01"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2012-07-01",
+            "finishDate": "2014-09-01"
+          }
+        ]
       }
     ]
   },
