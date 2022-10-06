@@ -50,6 +50,18 @@
             "startDate": "2021-09-01"
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Project Leader",
+            "startDate": "2016-09-01",
+            "finishDate": "2021-09-01"
+          }
+        ]
       }
     ]
   },
