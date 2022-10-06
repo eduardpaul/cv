@@ -180,6 +180,16 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified Security, Compliance, and Identity",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "URL": "https://www.credly.com/badges/81215d2e-3450-4b5e-9fd6-6379fbb6a6b3/public_url"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Technician in Multi-platform Applications Development",
