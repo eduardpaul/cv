@@ -100,7 +100,25 @@
           }
         },
         "type": "achievement",
-        "publishingDate": "2022-07-01"
+        "publishingDate": "2022-07-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Sharepoint",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
