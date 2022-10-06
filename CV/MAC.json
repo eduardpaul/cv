@@ -217,6 +217,31 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
+          "URL": "https://www.credly.com/badges/d4c75cf3-4807-42ae-adcc-c085dfb07113/linked_in_profile",
+          "image": {
+            "alt": "image (6).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/5291dff1-fc9b-49f8-88f6-f3b3eb17ca6c_image-(6).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Technician in Multi-platform Applications Development",
