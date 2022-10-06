@@ -41,8 +41,12 @@
     ],
     "interestingFacts": [
       {
-        "topic": "Technical knowledge",
-        "fact": "## Development:\n* SharePoint Online and Microsoft Teams solution development using SPFx, PowerPlatform, Graph API, CSOM and Azure Cloud services for AuthN/AuthZ and backend (Logic Apps, Azure Functions, WebApps,).\n* Chatbot development using Microsoft Bot Framework (.net core and TypeScript SDK) and Azure Cognitive Services (Luis, Question answering,)\n* SPA development using React/TypeScript (CRA) and ExpressJS node backend. \n* IONIC web components development using Angular / React frameworks.\n\n## Infraestructure:\n* Managing Microsoft 365 tenant in terms of licencing, security and compliance.\n* Azure Cloud resources deployment and management using Bicep/ARM templates.\n* PowerShell scripting to automate administrative tasks SharePoint OnPrem and Microsoft 365 (PnPPowerShell, M365 CLI). \n* DevOps automation using Azure DevOps or Jenkins pipelines.\n* Creation of Docker development containers. \n* SAML / OAuth / OIDC configuration and usage (Azure Active Directory, ADFS, PingFederate, Keycloak and Oracle OAM).\n* Advanced understanding of onpremise GLB / load balancers / firewalls / webservers (IIS) configurations and deployments.\n* Advanced knowledge in SharePoint 2016/2019 onpremise farm infraestructure, troubleshooting and performance optimization. "
+        "topic": "Infraestructure knowledge",
+        "fact": "* Managing Microsoft 365 tenant in terms of licencing, security and compliance.\n* Azure Cloud resources deployment and management using Bicep/ARM templates.\n* PowerShell scripting to automate administrative tasks SharePoint OnPrem and Microsoft 365 (PnPPowerShell, M365 CLI). \n* DevOps automation using Azure DevOps or Jenkins pipelines.\n* Creation of Docker development containers. \n* SAML / OAuth / OIDC configuration and usage (Azure Active Directory, ADFS, PingFederate, Keycloak and Oracle OAM).\n* Advanced understanding of onpremise GLB / load balancers / firewalls / webservers (IIS) configurations and deployments.\n* Advanced knowledge in SharePoint 2016/2019 onpremise farm infraestructure, troubleshooting and performance optimization. "
+      },
+      {
+        "topic": "Development knowledge",
+        "fact": "* SharePoint Online and Microsoft Teams solution development using SPFx, PowerPlatform, Graph API, CSOM and Azure Cloud services for AuthN/AuthZ and backend (Logic Apps, Azure Functions, WebApps,).\n* Chatbot development using Microsoft Bot Framework (.net core and TypeScript SDK) and Azure Cognitive Services (Luis, Question answering,)\n* SPA development using React/TypeScript (CRA) and ExpressJS node backend. \n* IONIC web components development using Angular / React frameworks."
       }
     ]
   },
