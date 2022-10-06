@@ -60,7 +60,12 @@
           {
             "name": "Project Manager",
             "startDate": "2016-09-01",
-            "finishDate": "2021-09-01"
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "As a Project Leader, I am responsible for the successful execution of projects from start to finish. This includes planning, resource allocation, staff follow-up and mentoring, and ensuring that projects are delivered on time and within budget. I am also a Microsoft 365 and Microsoft Azure specialist, and have experience in designing and implementing digital workplace and employee experience solutions. In my role as Tech Lead, I ensure that our architectures are scalable and that our delivery quality is high. I also support our sales team from a technical perspective, providing them with the information and resources they need to successfully sell our products and services."
+              }
+            ]
           }
         ]
       },
