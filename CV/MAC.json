@@ -93,11 +93,7 @@
         "details": {
           "name": "Community Contributor 2022",
           "description": "Community Contributor badge earners contributed to one or more M365 Platform Community (PnP) initiatives by completing at least one contribution to a PnP initiative within the 2022 calendar year.",
-          "URL": "https://www.credly.com/badges/023ad512-a4bd-4931-9c39-e39ebdfed024?source=linked_in_profile",
-          "image": {
-            "alt": "image (5).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/ee9e8559-8d84-4e41-acd7-85895107dbd1_image-(5).png"
-          }
+          "URL": "https://www.credly.com/badges/023ad512-a4bd-4931-9c39-e39ebdfed024?source=linked_in_profile"
         },
         "type": "achievement",
         "publishingDate": "2022-07-01",
@@ -134,6 +130,36 @@
         "relatedCompetences": [
           {
             "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": " Excellent achievement in Vocational Training",
+          "description": "The award is given to the students with the higher grades of the graduating class."
+        },
+        "type": "achievement",
+        "publishingDate": "2012-07-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ]
