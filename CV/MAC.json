@@ -183,21 +183,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Microsoft Certified: Azure AI Fundamentals",
-        "startDate": "2022-02-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
-          "URL": "https://www.credly.com/badges/1efae251-f0ab-4b68-94fa-52ada9a8057b/public_url",
-          "image": {
-            "alt": "azure-ai-fundamentals-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/345dc9e1-cb2d-4a7d-9de5-8502f991e757_azure-ai-fundamental.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Microsoft Certified Security, Compliance, and Identity",
         "startDate": "2022-02-01",
         "institution": {
@@ -215,6 +200,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure AI Fundamentals",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
+          "URL": "https://www.credly.com/badges/1efae251-f0ab-4b68-94fa-52ada9a8057b/public_url",
+          "image": {
+            "alt": "image (6).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/738e875f-4ebe-4008-a0fa-c89c9588b1da_image-(6).png"
+          }
+        }
       },
       {
         "studyType": "certification",
