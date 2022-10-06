@@ -87,6 +87,20 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Community Contributor 2022",
+          "URL": "https://www.credly.com/badges/023ad512-a4bd-4931-9c39-e39ebdfed024?source=linked_in_profile",
+          "image": {
+            "alt": "image (5).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/ee9e8559-8d84-4e41-acd7-85895107dbd1_image-(5).png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2022-07-01"
+      }
     ]
   },
   "knowledge": {
