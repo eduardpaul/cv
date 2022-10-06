@@ -323,6 +323,22 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "startDate": "2022-03-01",
+        "finishDate": "2023-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.",
+          "URL": "https://www.credly.com/badges/76a1ecb6-40af-473c-ac7b-dd84582aeaba/linked_in_profile",
+          "image": {
+            "alt": "azure-developer-associate-600x600.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/6649bc81-3993-4a31-addd-1de5d6a7568c_azure-developer-asso.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Microsoft 365 Certified: Developer Associate",
         "startDate": "2020-11-01",
         "finishDate": "2023-11-01",
