@@ -119,6 +119,24 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": " MAP 2014 (Microsoft Active Professional 2014)",
+          "description": "This distinction is given to less than 5% of the professionals population , with in order to recognize their active participation in the community and commitment to keep in touch with the progress of our technologies.",
+          "image": {
+            "alt": "R.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/b45849a6-3594-4513-93d4-7e1ab8ad986f_r.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2014-04-01",
+        "relatedCompetences": [
+          {
+            "name": "Microsoft",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
