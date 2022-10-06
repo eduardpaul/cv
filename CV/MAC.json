@@ -177,6 +177,37 @@
       {
         "name": "Spanish"
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Technician in Multi-platform Applications Development",
+        "startDate": "2010-04-01",
+        "finishDate": "2012-07-01",
+        "institution": {
+          "name": "IES Virgen de la Paloma",
+          "description": "Developing, installing, documenting and maintaining multi-platform computer applications, using technologies and specific development environments, guaranteeing secure access to data and complying with «usability» and quality criteria required by established standards."
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
