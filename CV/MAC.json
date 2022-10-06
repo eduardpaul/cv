@@ -48,7 +48,12 @@
         "roles": [
           {
             "name": "Lead Solutions Architect",
-            "startDate": "2021-09-01"
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "In my role as Lead Solutions Architect, I am responsible for providing technical leadership, guidance and mentorship to the team and help business and IT stakeholders to understand and solve complex requirements using Microsoft 365 and Azure Cloud. I also support our sales team from a technical perspective, providing them with the information and resources they need to successfully sell our products and services."
+              }
+            ]
           }
         ]
       },
