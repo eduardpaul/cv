@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -36,6 +35,21 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/eduardpaul"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NTT DATA Europe & LATAM"
+        },
+        "roles": [
+          {
+            "name": "Lead Solutions Architect",
+            "startDate": "2021-09-01"
+          }
+        ]
       }
     ]
   },
