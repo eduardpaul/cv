@@ -292,6 +292,21 @@
       },
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MCSD: App Builder — Certified 2016",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the MCSD: App Builder certification have demonstrated the skills required to build modern mobile and/or web applications and services. Earning this certification qualifies an individual for a position as an application developer.",
+          "URL": "https://www.credly.com/badges/f7b5b5fc-a22f-46c3-ad34-16d6a2f4ecef",
+          "image": {
+            "alt": "MCSD_App_Builder-01.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a3c993ac-7375-4f0e-8ae8-3fde3b3d3524_mcsd_app_builder-01.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Microsoft 365 Certified: Developer Associate",
         "startDate": "2020-11-01",
