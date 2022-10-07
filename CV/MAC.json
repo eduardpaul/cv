@@ -50,7 +50,7 @@
       },
       {
         "topic": "Development knowledge",
-        "fact": "* SharePoint Online and Microsoft Teams solution development using SPFx, PowerPlatform, Graph API, CSOM and Azure Cloud services for AuthN/AuthZ and backend (Logic Apps, Azure Functions, WebApps,).\n* Experiece in SharePoint OnPremise to SharePoint Online migration and modernization.  \n* .net and .net core (C#), ASP.net, MVC5, node (JavaScript/TypeScript) development and PowerShell scripting. Also worked with: PHP, GO LANG, Java\n* Chatbot development using Microsoft Bot Framework (.net core and TypeScript SDK) and Azure Cognitive Services (Luis, Question answering,)\n* SPA development using React/TypeScript (CRA) and ExpressJS node backend. \n* IONIC web components development using React/Angular frameworks.\n* REST API development and management. "
+        "fact": "* SharePoint Online and Microsoft Teams solution development using SPFx, PowerPlatform, Graph API, CSOM and Azure Cloud services for AuthN/AuthZ and backend (Logic Apps, Azure Functions, WebApps,).\n* Experiece in SharePoint OnPremise to SharePoint Online migration and modernization.  \n* .net and .net core (C#), ASP.net, MVC5, node (JavaScript/TypeScript) development and PowerShell scripting. Also worked with: PHP, GO LANG and Java.\n* Chatbot development using Microsoft Bot Framework (.net core and TypeScript SDK) and Azure Cognitive Services (Luis, Question answering,).\n* SPA development using React/TypeScript (CRA) and ExpressJS node backend. \n* IONIC web components development using React/Angular frameworks.\n* REST API development and management. "
       }
     ]
   },
