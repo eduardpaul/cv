@@ -154,6 +154,9 @@
             "name": "Microsoft Sharepoint",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       },
       {
@@ -168,6 +171,9 @@
             "name": "Microsoft",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       },
       {
@@ -198,6 +204,9 @@
             "name": "JavaScript",
             "type": "technology"
           }
+        ],
+        "tags": [
+          ""
         ]
       }
     ]
@@ -206,7 +215,7 @@
     "languages": [
       {
         "name": "English",
-        "level": "Professional working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Russian",
@@ -342,6 +351,7 @@
         "startDate": "2021-01-01",
         "institution": {
           "name": "DevOps Institute",
+          "description": "",
           "image": {
             "alt": "DevOpsFoundationBadge.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/282e4397-7509-4b23-a855-d2738e9c9618_devopsfoundationbadg.png"
