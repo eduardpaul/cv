@@ -140,6 +140,10 @@
           {
             "name": "Microsoft Office 365",
             "type": "technology"
+          },
+          {
+            "name": "Microsoft Sharepoint",
+            "type": "technology"
           }
         ]
       },
