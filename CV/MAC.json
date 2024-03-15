@@ -599,6 +599,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Active Directory",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Office 365",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I highly value working in a product-oriented team with a medium and long-term commitment where quality and business value are equally important. "
   }
 }
