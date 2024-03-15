@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,38 +11,16 @@
       "title": "Lead Solutions Architect at NTT DATA Europe & LATAM",
       "description": "I am a Lead Solutions Architect with almost ten years of IT/software consulting experience. I have worked on projects for customers of most industries, sizes, and in different countries, mostly with Microsoft technologies, with the main focus on Microsoft SharePoint, Microsoft 365, and Microsoft Azure. With my extensive experience in the technology field, I am able to take on methodology, leadership, and project management responsibilities. \n\nI am a very sociable, empathetic, communicative, and flexible person. I enjoy sharing knowledge and experience with colleagues and teams I work with. I am always willing to help where I can contribute both professionally and personally. For me, collaboration, proactivity, generosity, autonomy, and organization are key values.",
       "avatar": {
-        "alt": "avatar.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/ee2b48c6-9692-434e-96b4-e67bedd73167_avatar.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/ee2b48c6-9692-434e-96b4-e67bedd73167_avatar.jpg",
+        "alt": "avatar.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://eduardpaul.work"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/eduardpaul"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/eduapauldev"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/eduardpaul"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Management skills",
@@ -55,6 +33,24 @@
       {
         "topic": "Development knowledge",
         "fact": "* SharePoint Online and Microsoft Teams solution development using SPFx, PowerPlatform, Graph API, CSOM and Azure Cloud services for AuthN/AuthZ and backend (Logic Apps, Azure Functions, WebApps,).\n* Experiece in SharePoint OnPremise to SharePoint Online migration and modernization.  \n* .net and .net core (C#), ASP.net, MVC5, node (JavaScript/TypeScript) development and PowerShell scripting. Also worked with: PHP, GO LANG and Java.\n* Chatbot development using Microsoft Bot Framework (.net core and TypeScript SDK) and Azure Cognitive Services (Luis, Question answering,).\n* SPA development using React/TypeScript (CRA) and ExpressJS node backend. \n* IONIC web components development using React/Angular frameworks.\n* REST API development and management. "
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eduardpaul"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/eduardpaul"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/eduapauldev"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida"
       }
     ]
   },
@@ -146,9 +142,6 @@
             "name": "Microsoft Sharepoint",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       },
       {
@@ -176,9 +169,6 @@
             "name": "Microsoft Sharepoint",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       },
       {
@@ -193,9 +183,6 @@
             "name": "Microsoft",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       },
       {
@@ -219,16 +206,13 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
             "name": "JavaScript",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       }
     ]
@@ -236,28 +220,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Russian",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "RU",
+        "fullName": "Ruso",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Microsoft Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Sharepoint",
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -269,13 +250,13 @@
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -287,7 +268,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Sharepoint",
           "type": "technology"
         }
       },
@@ -308,6 +295,129 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "DevOps Foundation® Certification",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "DevOps Institute",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/282e4397-7509-4b23-a855-d2738e9c9618_devopsfoundationbadg.png",
+            "alt": "DevOpsFoundationBadge.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Technician in Multi-platform Applications Development",
+        "startDate": "2010-04-01",
+        "institution": {
+          "name": "IES Virgen de la Paloma",
+          "description": "Developing, installing, documenting and maintaining multi-platform computer applications, using technologies and specific development environments, guaranteeing secure access to data and complying with «usability» and quality criteria required by established standards."
+        },
+        "finishDate": "2012-07-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MCSA: Web Applications - Certified 2016",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the MCSA: Web Applications certification have demonstrated the skills required to implement modern web apps. They are qualified for a position as a web developer or web administrator.",
+          "URL": "https://www.credly.com/badges/9dea252b-458c-4347-856a-d6e61b4e6c71",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a5602c33-61d2-4276-8f0b-5aaa64e65314_mcsa_web_application.png",
+            "alt": "MCSA_Web_Applications-01.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MCSD: App Builder — Certified 2016",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the MCSD: App Builder certification have demonstrated the skills required to build modern mobile and/or web applications and services. Earning this certification qualifies an individual for a position as an application developer.",
+          "URL": "https://www.credly.com/badges/f7b5b5fc-a22f-46c3-ad34-16d6a2f4ecef",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a3c993ac-7375-4f0e-8ae8-3fde3b3d3524_mcsd_app_builder-01.png",
+            "alt": "MCSD_App_Builder-01.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft 365 Certified: Developer Associate",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Certified: Teams Application Developer Associate certification validates the skills and knowledge to design, build, test, and maintain applications and solutions that are optimized for the productivity and collaboration needs of organizations using the Microsoft 365 platform.",
+          "URL": "https://www.youracclaim.com/badges/aef2b78f-9685-4c05-8dd5-6fbf84040a61?source=linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/12cb55c9-bbdc-4a00-962f-79222dfad834_cert-associate-micro.png",
+            "alt": "CERT-Associate-Microsoft365-Developer.png"
+          }
+        },
+        "finishDate": "2024-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Sharepoint",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
+          "URL": "https://www.credly.com/badges/d4c75cf3-4807-42ae-adcc-c085dfb07113/linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/5291dff1-fc9b-49f8-88f6-f3b3eb17ca6c_image-(6).png",
+            "alt": "image (6).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Microsoft Certified Security, Compliance, and Identity",
         "startDate": "2022-02-01",
         "institution": {
@@ -315,8 +425,8 @@
           "description": "Earners of the Security, Compliance, and Identity Fundamentals demonstrate a functional understanding of security, compliance, and identity (SCI) across cloud-based and related Microsoft services.",
           "URL": "https://www.credly.com/badges/81215d2e-3450-4b5e-9fd6-6379fbb6a6b3/public_url",
           "image": {
-            "alt": "security-compliance-and-identity-fundamentals-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/86b95bbb-c0b5-4536-a478-5032d1c1092c_security-compliance-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/86b95bbb-c0b5-4536-a478-5032d1c1092c_security-compliance-.png",
+            "alt": "security-compliance-and-identity-fundamentals-600x600.png"
           }
         },
         "linkedCompetences": [
@@ -336,49 +446,26 @@
           "description": "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
           "URL": "https://www.credly.com/badges/1efae251-f0ab-4b68-94fa-52ada9a8057b/public_url",
           "image": {
-            "alt": "image (6).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/738e875f-4ebe-4008-a0fa-c89c9588b1da_image-(6).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/738e875f-4ebe-4008-a0fa-c89c9588b1da_image-(6).png",
+            "alt": "image (6).png"
           }
         }
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft 365 Certified: Fundamentals",
-        "startDate": "2021-04-01",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "startDate": "2022-03-01",
         "institution": {
           "name": "Microsoft",
-          "description": "Earning the Microsoft 365 Fundamentals certification demonstrates an understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
-          "URL": "https://www.credly.com/badges/d4c75cf3-4807-42ae-adcc-c085dfb07113/linked_in_profile",
+          "description": "Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.",
+          "URL": "https://www.credly.com/badges/76a1ecb6-40af-473c-ac7b-dd84582aeaba/linked_in_profile",
           "image": {
-            "alt": "image (6).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/5291dff1-fc9b-49f8-88f6-f3b3eb17ca6c_image-(6).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/6649bc81-3993-4a31-addd-1de5d6a7568c_azure-developer-asso.png",
+            "alt": "azure-developer-associate-600x600.png"
           }
         },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Office 365",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "DevOps Foundation® Certification",
-        "startDate": "2021-01-01",
-        "institution": {
-          "name": "DevOps Institute",
-          "description": "",
-          "image": {
-            "alt": "DevOpsFoundationBadge.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/282e4397-7509-4b23-a855-d2738e9c9618_devopsfoundationbadg.png"
-          }
-        }
+        "finishDate": "2024-03-01"
       },
       {
         "studyType": "certification",
@@ -390,8 +477,8 @@
           "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
           "URL": "https://www.youracclaim.com/badges/2b86b8eb-d784-44a5-8e8d-22ba30c2d160?source=linked_in_profile",
           "image": {
-            "alt": "image (7).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/146e028b-8691-4ae2-bc35-0c4d44520b96_image-(7).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/146e028b-8691-4ae2-bc35-0c4d44520b96_image-(7).png",
+            "alt": "image (7).png"
           }
         },
         "linkedCompetences": [
@@ -411,111 +498,30 @@
           "description": "Those who earn the globally recognized Professional Scrum Master I (PSM I) certification have demonstrated a fundamental level of Scrum mastery, including the concepts of applying Scrum, and proven an understanding of Scrum as described in the Scrum Guide. This individual has also demonstrated a consistent use of terminology and approach to Scrum.",
           "URL": "https://www.credly.com/badges/440ae803-d2a3-4d4e-83eb-a64428cd7d4a/public_url",
           "image": {
-            "alt": "image (8).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/d495d210-5074-4176-b787-fbbf071a4829_image-(8).png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/d495d210-5074-4176-b787-fbbf071a4829_image-(8).png",
+            "alt": "image (8).png"
           }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MCSD: App Builder — Certified 2016",
-        "startDate": "2016-09-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the MCSD: App Builder certification have demonstrated the skills required to build modern mobile and/or web applications and services. Earning this certification qualifies an individual for a position as an application developer.",
-          "URL": "https://www.credly.com/badges/f7b5b5fc-a22f-46c3-ad34-16d6a2f4ecef",
-          "image": {
-            "alt": "MCSD_App_Builder-01.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a3c993ac-7375-4f0e-8ae8-3fde3b3d3524_mcsd_app_builder-01.png"
-          }
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MCSA: Web Applications - Certified 2016",
-        "startDate": "2016-09-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the MCSA: Web Applications certification have demonstrated the skills required to implement modern web apps. They are qualified for a position as a web developer or web administrator.",
-          "URL": "https://www.credly.com/badges/9dea252b-458c-4347-856a-d6e61b4e6c71",
-          "image": {
-            "alt": "MCSA_Web_Applications-01.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/a5602c33-61d2-4276-8f0b-5aaa64e65314_mcsa_web_application.png"
-          }
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: Azure Developer Associate",
-        "startDate": "2022-03-01",
-        "finishDate": "2024-03-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.",
-          "URL": "https://www.credly.com/badges/76a1ecb6-40af-473c-ac7b-dd84582aeaba/linked_in_profile",
-          "image": {
-            "alt": "azure-developer-associate-600x600.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/6649bc81-3993-4a31-addd-1de5d6a7568c_azure-developer-asso.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft 365 Certified: Developer Associate",
-        "startDate": "2020-11-01",
-        "finishDate": "2024-11-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning the Microsoft 365 Certified: Teams Application Developer Associate certification validates the skills and knowledge to design, build, test, and maintain applications and solutions that are optimized for the productivity and collaboration needs of organizations using the Microsoft 365 platform.",
-          "URL": "https://www.youracclaim.com/badges/aef2b78f-9685-4c05-8dd5-6fbf84040a61?source=linked_in_profile",
-          "image": {
-            "alt": "CERT-Associate-Microsoft365-Developer.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/12cb55c9-bbdc-4a00-962f-79222dfad834_cert-associate-micro.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Office 365",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Sharepoint",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Higher Technician in Multi-platform Applications Development",
-        "startDate": "2010-04-01",
-        "finishDate": "2012-07-01",
-        "institution": {
-          "name": "IES Virgen de la Paloma",
-          "description": "Developing, installing, documenting and maintaining multi-platform computer applications, using technologies and specific development environments, guaranteeing secure access to data and complying with «usability» and quality criteria required by established standards."
-        },
-        "linkedCompetences": [
-          {
-            "name": ".NET",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
@@ -523,13 +529,24 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/eduardpaul"
+          "URL": "https://www.linkedin.com/in/eduardpaul",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida"
+          "URL": "https://stackoverflow.com/users/3178041/eduard-paul-lakida",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/eduardpaul",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/eduapauldev",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "eduardpaul1091+li@gmail.com"
       ]
     },
     "preferences": {
@@ -565,7 +582,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -580,5 +597,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I highly value working in a product-oriented team with a medium and long-term commitment where quality and business value are equally important. "
   }
 }
