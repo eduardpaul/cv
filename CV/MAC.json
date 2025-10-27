@@ -295,7 +295,7 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Azure AI Fundamentals (AZ-900)",
+        "name": "Azure AI Fundamentals (AI-900)",
         "startDate": "2022-02-01",
         "institution": {
           "name": "Microsoft",
