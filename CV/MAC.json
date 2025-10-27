@@ -417,7 +417,7 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Microsoft 365 Developer Associate (MS-600)",
         "startDate": "2020-11-01",
         "institution": {
@@ -429,7 +429,6 @@
             "alt": "CERT-Associate-Microsoft365-Developer.png"
           }
         },
-        "finishDate": "2024-11-01",
         "linkedCompetences": [
           {
             "name": "Microsoft Office 365",
