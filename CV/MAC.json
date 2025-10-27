@@ -295,6 +295,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Azure Developer Associate (AZ-204)",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.",
+          "URL": "https://www.credly.com/badges/76a1ecb6-40af-473c-ac7b-dd84582aeaba/linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/6649bc81-3993-4a31-addd-1de5d6a7568c_azure-developer-asso.png",
+            "alt": "azure-developer-associate-600x600.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "DevOps Foundation® Certification",
         "startDate": "2021-01-01",
         "institution": {
@@ -453,22 +468,6 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Microsoft Certified: Azure Developer Associate",
-        "startDate": "2022-03-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earning Azure Developer Associate certification validates the skills and knowledge to design, build, test, and maintain cloud applications and services on Microsoft Azure. Candidates participate in all phases of cloud development from requirements definition and design, to development, deployment, and maintenance.",
-          "URL": "https://www.credly.com/badges/76a1ecb6-40af-473c-ac7b-dd84582aeaba/linked_in_profile",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/6649bc81-3993-4a31-addd-1de5d6a7568c_azure-developer-asso.png",
-            "alt": "azure-developer-associate-600x600.png"
-          }
-        },
-        "finishDate": "2024-03-01"
-      },
-      {
-        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Microsoft Certified: Azure Fundamentals",
         "startDate": "2020-10-01",
@@ -544,9 +543,6 @@
           "URL": "https://twitter.com/eduapauldev",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "eduardpaul1091+li@gmail.com"
       ]
     },
     "preferences": {
