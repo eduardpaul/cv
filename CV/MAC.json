@@ -325,6 +325,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Azure Fundamentals (AZ-900)",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+          "URL": "https://www.youracclaim.com/badges/2b86b8eb-d784-44a5-8e8d-22ba30c2d160?source=linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/146e028b-8691-4ae2-bc35-0c4d44520b96_image-(7).png",
+            "alt": "image (7).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "DevOps Foundation® Certification",
         "startDate": "2021-01-01",
         "institution": {
@@ -462,27 +483,6 @@
         "linkedCompetences": [
           {
             "name": "Microsoft",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Microsoft Certified: Azure Fundamentals",
-        "startDate": "2020-10-01",
-        "institution": {
-          "name": "Microsoft",
-          "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
-          "URL": "https://www.youracclaim.com/badges/2b86b8eb-d784-44a5-8e8d-22ba30c2d160?source=linked_in_profile",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/146e028b-8691-4ae2-bc35-0c4d44520b96_image-(7).png",
-            "alt": "image (7).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Azure",
             "type": "technology"
           }
         ]
