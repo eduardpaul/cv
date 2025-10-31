@@ -359,6 +359,7 @@
         "institution": {
           "name": "Microsoft",
           "description": "Designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback.",
+          "URL": "https://learn.microsoft.com/api/credentials/share/en-us/eduardpaul/442AE42560346E7?sharingId=7C350C787AFD611C",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/31/4691fde3-d307-434c-98b2-64edcff96d7e_microsoft-certified-.svg",
             "alt": "microsoft-certified-expert-badge.svg"
