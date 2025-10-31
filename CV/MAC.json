@@ -178,11 +178,7 @@
       {
         "details": {
           "name": " MAP 2014 (Microsoft Active Professional 2014)",
-          "description": "This distinction is given to less than 5% of the professionals population , with in order to recognize their active participation in the community and commitment to keep in touch with the progress of our technologies.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/31/c925d13e-56af-4b80-91fe-142bdcfcb134_2025-10-31-19_00_22-.png",
-            "alt": "2025-10-31 19_00_22-Greenshot.png"
-          }
+          "description": "This distinction is given to less than 5% of the professionals population , with in order to recognize their active participation in the community and commitment to keep in touch with the progress of our technologies."
         },
         "type": "achievement",
         "publishingDate": "2014-04-01",
