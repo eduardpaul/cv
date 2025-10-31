@@ -23,6 +23,10 @@
     },
     "interestingFacts": [
       {
+        "topic": "DevOps & Automation skills",
+        "fact": "- **CI/CD:** Pipeline automation using **Azure DevOps** and Jenkins.\n- **Scripting:** Advanced **PowerShell** (PnPPowerShell, M365 CLI) to automate administrative tasks for both On-Premise and M365.\n- **Containerization:** Creation of Docker containers for development environments.\n"
+      },
+      {
         "topic": "Application Development & Modernization skills",
         "fact": "- **M365 Development:** Custom solutions for SharePoint Online (SPFx) and MS Teams using Power Platform, Graph API, & CSOM.\n- **Migration & Modernization:** Proven experience migrating and modernizing SharePoint On-Premise solutions to SharePoint Online.\n- **Backend:** .NET & .NET Core (C#), ASP.NET MVC, Node.js (JavaScript/TypeScript), and REST API development.\n- **Frontend:** Single Page Application (SPA) development using React/TypeScript; IONIC web components (React/Angular).\n- **AI & Chatbots:** Architecting enterprise-grade RAG (Retrieval-Augmented Generation) solutions using Copilot Studio, Azure OpenAI Service, Azure AI Search (Vector Search), and Azure AI Foundry.\n- **Polyglot Experience:** Working knowledge of PHP, Go, and Java."
       },
