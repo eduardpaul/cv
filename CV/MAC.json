@@ -121,7 +121,7 @@
             "finishDate": "2014-09-01",
             "challenges": [
               {
-                "description": "In charge of SharePoint/ASP.net applications maintenance as well as configuration and customization of third-party solutions: Nintex Workflows 2010, SharePoint 2010 FBA Pack among others. Use of the different models/APIs offered by the platform such as Sandbox, SSOM, CSOM and REST. Provide end-to-end functional and technical documentation and end-user support."
+                "description": "- Developed, maintained, and customized SharePoint and ASP.NET applications, leveraging the full range of platform models including **SSOM, CSOM, REST**, and Sandbox solutions.\n- Managed the configuration and extension of key third-party tools, including **Nintex Workflows 2010** and the SharePoint 2010 FBA Pack.\n- Authored comprehensive functional and technical documentation and provided direct end-user support, ensuring solution adoption and stability."
               }
             ]
           }
