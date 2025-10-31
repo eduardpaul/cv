@@ -146,25 +146,6 @@
       },
       {
         "details": {
-          "name": "Community Contributor 2023",
-          "description": "Community Contributor badge earners contributed to one or more Microsoft 365 & Power Platform Community initiatives by completing at least one contribution to a Microsoft 365 & Power Platform Community initiative within the 2023 calendar year.",
-          "URL": "https://www.credly.com/badges/4f3322b5-e972-4474-81d5-e889fbb43913/public_url"
-        },
-        "type": "achievement",
-        "publishingDate": "2023-02-01",
-        "relatedCompetences": [
-          {
-            "name": "Microsoft Office 365",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Sharepoint",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Community Contributor 2022",
           "description": "Community Contributor badge earners contributed to one or more M365 Platform Community (PnP) initiatives by completing at least one contribution to a PnP initiative within the 2022 calendar year.",
           "URL": "https://www.credly.com/badges/023ad512-a4bd-4931-9c39-e39ebdfed024?source=linked_in_profile"
