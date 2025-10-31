@@ -70,7 +70,7 @@
             "startDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Provide technical leadership and mentorship to development teams, guiding the translation of complex stakeholder requirements into scalable Microsoft 365 and Azure Cloud architectures.\n- Serve as the key pre-sales technical authority in the sales cycle, securing new business by architecting PoCs, validating project scopes, and presenting solutions to C-level stakeholders.\n- Pioneer the enterprise adoption of Generative AI, leveraging Azure OpenAI and RAG methodologies to enhance internal team efficiency and develop **new AI-driven service offerings**."
+                "description": "- Provide **technical leadership and mentorship** to development teams, guiding the translation of complex stakeholder requirements into scalable Microsoft 365 and Azure Cloud architectures.\n- Serve as the key **pre-sales technical authority** in the sales cycle, securing new business by architecting PoCs, validating project scopes, and presenting solutions to C-level stakeholders.\n- Pioneer the enterprise adoption of Generative AI, leveraging Azure OpenAI and RAG methodologies to enhance internal team efficiency and develop **new AI-driven service offerings**."
               }
             ]
           }
