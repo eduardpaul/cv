@@ -127,6 +127,25 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": " Bizz Summit ES - Rockstar Speaker 2024",
+          "description": "Rockstar Speaker is a speaker who stands out exceptionally in their presentations, who manages to inspire, captivate, and leave a lasting impression on the audience.",
+          "URL": "https://eu.badgr.com/public/assertions/iQgCp3-BSN6hJ4tSzKv0Tg?identity__email=eduardpaul@outlook.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/10/31/5ff7276d-1785-4a72-a521-0d8ed6aa78f7_assertion-iqgcp3-bsn.png",
+            "alt": "assertion-iQgCp3-BSN6hJ4tSzKv0Tg.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Microsoft Power Plataform",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Community Contributor 2023",
           "description": "Community Contributor badge earners contributed to one or more Microsoft 365 & Power Platform Community initiatives by completing at least one contribution to a Microsoft 365 & Power Platform Community initiative within the 2023 calendar year.",
           "URL": "https://www.credly.com/badges/4f3322b5-e972-4474-81d5-e889fbb43913/public_url"
