@@ -303,6 +303,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Azure AI Engineer Associate (AI-102)",
+        "startDate": "2025-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Diseñe e implemente una solución de Azure AI mediante servicios de Azure AI, Búsqueda de Azure AI y Azure Open AI.",
+          "URL": "https://learn.microsoft.com/api/credentials/share/en-us/eduardpaul/B67C6AD893482526?sharingId=7C350C787AFD611C",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/01/85f2724a-8bf0-4846-98e3-73613b24591e_microsoft-certified-.svg",
+            "alt": "microsoft-certified-associate-badge.svg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Azure AI Fundamentals (AI-900)",
         "startDate": "2022-02-01",
         "institution": {
