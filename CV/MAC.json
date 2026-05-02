@@ -402,6 +402,31 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Generative AI Leader Certification",
+        "startDate": "2026-05-01",
+        "institution": {
+          "name": "Google Cloud",
+          "URL": "https://www.credly.com/badges/8b87febf-a157-4586-8731-c51fb776a15d/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/02/2e677850-c3d1-44cc-9ce6-4dfe60a7badc_gcert.png",
+            "alt": "gcert.png"
+          }
+        },
+        "finishDate": "2029-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Google AI Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher Technician in Multi-platform Applications Development",
